@@ -44,7 +44,7 @@ document.getElementById('email-field').addEventListener('keyup', function(event)
 })
 
 // Text background color change
-document.getElementById('change-elemnt-color').addEventListener('dblclick', function(){
+document.getElementById('change-element-color').addEventListener('dblclick', function(){
     const colorChange = document.getElementById('color-change');
     colorChange.style.color = 'red';
 });
